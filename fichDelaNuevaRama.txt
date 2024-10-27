@@ -1,4 +1,6 @@
 creado este ficheiro para 
 tener contenido de la nueva rama
+Y si meto otra linea aqui?
 vou escrever outra frase aqui
 e aqui
+Esa frase está escrita despues del commit
